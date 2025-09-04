@@ -17,4 +17,4 @@
 - Caranzo, Mac Howard (**@Howardness**)
 - Tabungar, Steven Jan (**@Smuffinn**)
 - verano, joel (**@VeranoJoel**)
-- Queddeng, James Adriane (**draylazy**)
+- Queddeng, James Adriane (**@draylazy**)
